@@ -1,0 +1,24 @@
+{
+  "name": "che-kung",
+  "version": "1.0.3",
+  "description": "車公靈簽",
+  "main": "roll.js",
+  "bin": {
+    "che-kung": "./bin/che-kung.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "che-kung",
+    "車公"
+  ],
+  "author": "Yeung Yiu Hung <hkclex@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.12"
+  },
+  "dependencies": {
+    "word-table": "^1.0.3"
+  }
+}
